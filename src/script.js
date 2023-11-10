@@ -63,10 +63,10 @@ class TextScramble {
 // ——————————————————————————————————————————————————
 
 const phrases = [
-'Nako Loading..,',
-'Nako Loaded!',
-'Nako Project Loading..',
-'C++'];
+'Onimain efe...',
+'Rogue gecin!',
+'Rogue giriliyor...',
+'C++, Rogue'];
 
 const el = document.querySelector('.text');
 const fx = new TextScramble(el);
